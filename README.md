@@ -8,7 +8,7 @@ pmdarima==1.8.2\
 scikit-learn==0.24.2\
 seaborn==0.11.1\
 sktime==0.6.1\
-statsmodels==0.12.2\
+statsmodels==0.12.2
 
 
 
