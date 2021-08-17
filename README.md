@@ -1,19 +1,22 @@
 ### Summary
-Example code presenting sktime features useful for forecasting.
-It was used in an article, which you can find here.
+Sktime is a Python toolbox for time series modeling. It supports, e.g. time series classification, time series clustering, forecasting and feature extraction.
 
-### Requirements
-python_version >= 3.8
+Sktime improves the experience of forecasting in Python. This project presents sktime features useful for forecasting. It includes, e.g. evaluating forecasters, creating pipelines, forecasting with a regressor component and tuning parameters specific for time series.
 
-matplotlib 3.4.2\
-numpy 1.19.5\
-pandas 1.3.0\
-pmdarima 1.8.2\
-scikit-learn 0.24.2\
-seaborn 0.11.1\
-sktime 0.7.0\
-statsmodels 0.12.2\
-tbats 1.1.0
+Some of the code was presented in a Medium post, which you can find [here](https://medium.com/@jlenczuk/why-start-using-sktime-for-forecasting-8d6881c0a518).
+
+### Installing
+To work with the available notebook run the following command. 
+
+```
+pip install -r requirements.txt
+```
+
+Python >= 3.8 is required.
+
+### Executing
+You can run this notebook in Google Colab. To do this, change the domain from 'github.com' to 'githubtocolab.com'. 
+
 
 
 
