@@ -5,13 +5,6 @@ Sktime improves the experience of forecasting in Python. This project presents s
 
 I presented some of the code in a Medium post, which you can find [here](https://medium.com/@jlenczuk/why-start-using-sktime-for-forecasting-8d6881c0a518).
 
-### Installing
-To work with the available notebook run the following command. 
-
-```
-pip install -r requirements.txt
-```
-
 Python >= 3.8 is required.
 
 ### Executing
